@@ -3,3 +3,6 @@ pillow
 pandas
 openpyxl
 pytesseract
+requests
+opencv-python-headless
+numpy
